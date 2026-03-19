@@ -1,0 +1,7 @@
+{
+    "user": "gitgoat",
+    "key_id": "AKIA5677P7BCP2ZNJQ5Y",
+    "access_key": "dFeVG+KhqTlH7nmdmbJHMsh8vE9jA6uoe/S406wR",
+    "console": "https://959924140100.signin.aws.amazon.com/console",
+    "git": "goat"
+}
